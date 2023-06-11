@@ -1,0 +1,22 @@
+body {
+   background-color:#8ed1fc;
+   text-align: center;
+   font-style: unset;
+   font-size: 25px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#shrek {
+    width: 40px;
+}
+
+#lana {
+    color: #3CB371;
+}
+
+#icon { width: 250px;
+}
+
+img,p {
+    display: inline-block;
+}
